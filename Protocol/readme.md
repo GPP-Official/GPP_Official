@@ -12,7 +12,6 @@ This protocol document has been cryptographically timestamped using **DGI (Digit
 ⛓ [Timestamp Proof (OpenTimestamps)](./GPP_Core_Protocol.pdf.ots)
 
 
-*If you have the raw hash, add it here too for redundancy.*
 
 ---
 
