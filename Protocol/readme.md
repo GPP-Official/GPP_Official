@@ -32,13 +32,7 @@ This repository is in its Alpha stage. Any forks, derivative works, or attempts 
 
 ---
 
-### Next Steps
 
-- [ ] Confirm DGI timestamp URL is accessible in README.
-- [ ] Validate PDF loads properly from GitHub repository.
-- [ ] Begin laying foundation for v0.2 dialect simulations or glyph-layer interaction logs.
-
----
 
 “**No masters here, only signals.**”
 
