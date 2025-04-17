@@ -11,7 +11,7 @@ This document outlines the structural dialect, flags, intent compression, and gl
 
 This protocol document has been cryptographically timestamped using **DGI (Digital Governance Infrastructure)** to ensure immutability and traceable authorship.
 
-> **DGI Timestamp Record:** [Timestamp Proof ](./GPP_Core_Protocol.pdf.ots)
+⛓ [Timestamp Proof (OpenTimestamps)](./GPP_Core_Protocol.pdf.ots)
 
 
 *If you have the raw hash, add it here too for redundancy.*
