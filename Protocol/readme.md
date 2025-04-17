@@ -1,5 +1,3 @@
----
-
 ### Core Protocol PDF
 
 > **Download:**  
