@@ -16,7 +16,9 @@ This is the foundational protocol specification containing the full glyph struct
 
 ## Timestamp Proof
 
-### [DGI Timestamp Certificate](https://www.digitstamp.com/verify.aspx?ID=insert-your-DGI-ID-here)
+### [DGI Timestamp Certificate]
+(https://github.com/GPP-Official/GPP_Official/blob/c12c6d37d9653242c7c1d2d10e4c89fc455de9ad/Protocol/GPP_Core_Protocol.ots)
+
 This document has been timestamped using the DGI (Digital Government Initiative) protocol to certify authorship and the date of protocol release. Certificate hash is embedded within the file.
 
 ---
